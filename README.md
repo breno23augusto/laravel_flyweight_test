@@ -1,6 +1,7 @@
 ## About Flyweight Test
 
 A study about the Flyweight structural pattern in Laravel:
+For different results, change the migration files or the service file.
 
 # 👷 Installation
 
