@@ -27,7 +27,7 @@ class Kernel extends ConsoleKernel
     protected function schedule(Schedule $schedule)
     {
         $schedule->call(function () {
-            //UpdateVoucherInfo::run();
+            UpdateVoucherInfo::run();
             UpdateVoucherInfoTwo::run();
         })->everyMinute();
     }
