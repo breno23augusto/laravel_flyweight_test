@@ -4,6 +4,9 @@ A study about the Flyweight structural pattern in Laravel:
 For different results, change the migration files or the service file.
 To see the difference beetween the to services UpdateVoucherInfo and UpdateVoucherInfoTwo, comment on Kernel.php file.
 
+The project aims to verify the memory expenditure during the processing of files using different techniques.
+To see the memory expenditure go to /src/storage/logs/.
+
 # 👷 Installation
 
 ``` git clone https://github.com/breno23augusto/laravel_flyweight_test.git```
