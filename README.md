@@ -75,7 +75,3 @@ After your Pull Request is merged, can you delete your feature branch.
 
 So far it has not been possible to identify the benefit of using the design pattern in Eloquent Models.
 
-# 📕 License
-
-Released in 2019.
-This project is under the ***MIT license***
