@@ -71,6 +71,9 @@ After copying the examples, make sure to fill the variables with new values.
 After your Pull Request is merged, can you delete your feature branch.
 
 ---
+# 📕 Conclusion
+
+So far it has not been possible to identify the benefit of using the design pattern in Eloquent Models.
 
 # 📕 License
 
